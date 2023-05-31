@@ -8,4 +8,10 @@
   </a>
 </div>
 
+<div id="views">
+<img src="https://komarev.com/ghpvc/?username=malikiyanda&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+
 
