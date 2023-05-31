@@ -21,7 +21,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on upskilling in DevOps engeering concepts and tools and howcasing my learning journey
+- 🔭 I'm currently working on upskilling in DevOps engineering concepts and tools, and showcasing my learning journey.
 <!-- 
  - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
