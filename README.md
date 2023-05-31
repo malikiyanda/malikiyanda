@@ -53,6 +53,9 @@ Here are some ideas to get you started:-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<!-- ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malikiyanda&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 
